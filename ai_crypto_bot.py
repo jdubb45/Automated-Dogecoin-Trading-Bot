@@ -13,8 +13,8 @@ from rich.table import Table
 from rich.live import Live
 
 # === CONFIG ===
-API_KEY = "account-MFBPbzBWLsjWWCsmEqrH"  # Replace with your API key
-API_SECRET = "27DqUsph29zoPr7AJ9892tncinee"  # Replace with your API secret
+API_KEY = "################"  # Replace with your API key
+API_SECRET = "################"  # Replace with your API secret
 GEMINI_URL = "https://api.gemini.com"
 TRADE_PAIR = "dogeusd"
 TRADE_USD = 1.00
